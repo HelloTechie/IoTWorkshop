@@ -387,15 +387,21 @@ You can find many other ideas around the Azure Maps Web SDK in this [code sample
 
 ## Useful Resources
 
-Here are some additional useful resource on Azure Maps.
+* [Azure IoT Tutorials](https://docs.microsoft.com/en-us/azure/azure-maps/tutorial-search-location)
+* [Overview](https://azure.com/maps)
+* [Documentation](https://aka.ms/AzureMapsDocs) 
+* [Code Samples](https://aka.ms/AzureMapsSamples)
+* [Azure Maps Feedback (UserVoice)](https://aka.ms/AzureMapsFeedback)
 
-* [Azure Maps (main site)](https://azure.com/maps)
-* [Azure Maps Documentation](https://docs.microsoft.com/azure/azure-maps/index)
-* [Azure Maps Code Samples](https://azuremapscodesamples.azurewebsites.net/)
-* [Azure Maps Blog](https://azure.microsoft.com/blog/topics/azure-maps/)
-* [MSDN Forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=azurelbs)
-* [StackOverflow [azure-maps]](https://stackoverflow.com/questions/tagged/azure-maps)
-* [Azure Maps feedback](https://feedback.azure.com/forums/909172-azure-maps)
+Here are some other useful resources on Azure Maps that they may be interested in after the lab:
+
+* [Videos](https://aka.ms/AzureMapsVideos)
+* [Blog](https://aka.ms/AzureMapsBlog)
+* [Developer Forums](https://aka.ms/AzureMapsForums)
+* [Azure Maps IoT School](https://aka.ms/AzureMapsIoTSchool)
+* [Case Studies](https://aka.ms/AzureMapsCaseStudies)
+* [Pricing](https://aka.ms/AzureMapsPricing)
+
 
 ## Additional Notes
 
