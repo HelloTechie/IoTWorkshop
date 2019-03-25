@@ -393,7 +393,7 @@ You can find many other ideas around the Azure Maps Web SDK in this [code sample
 * [Code Samples](https://aka.ms/AzureMapsSamples)
 * [Azure Maps Feedback (UserVoice)](https://aka.ms/AzureMapsFeedback)
 
-Here are some other useful resources on Azure Maps that they may be interested in after the lab:
+Here are additional resources:
 
 * [Videos](https://aka.ms/AzureMapsVideos)
 * [Blog](https://aka.ms/AzureMapsBlog)
