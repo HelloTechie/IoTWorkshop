@@ -71,13 +71,12 @@ In this step, you will simulate 3 devices and send data to your IoT Hub
 
 ![](media/63cfca44a7a34ec19f09ae1cb2eece78.png)
 
-2.  Enter “device1” in the “deviceId” textbox and click save (you can leave the
+2.  Enter “device1” in the **deviceId** textbox and click save (you can leave the
     default settings enabled)
 
 ![](media/70d532568688930ba63302ca3f1f3f35.png)
 
-3.  You need to save the primary connection string for the device. Go to “IoT
-    devices” and click on “device 1”
+3.  You need to save the primary connection string for the device. Go to **IoT devices** and click on **device1**
 
 ![](media/4bb1bcf6363e055b2ec93c4cf9ca1e19.png)
 
@@ -86,8 +85,7 @@ In this step, you will simulate 3 devices and send data to your IoT Hub
 
 ![](media/6bb59c9e69cbae98a9f27b3461b72c24.png)
 
-5.  Repeat the same steps (step 1 – 4) to create 2 new devices with Ids: “device
-    2” and “device 3”. Save their primary connection strings as well
+5.  Repeat the same steps (step 1 – 4) to create 2 new devices with Ids: “device2” and “device3”. Save their primary connection strings as well
 
 6.  To send events you will need a Raspberry Pi web simulator. Go to
     [https://azure-samples.github.io/raspberry-pi-web-simulator/\#GetStarted](https://azure-samples.github.io/raspberry-pi-web-simulator/)
