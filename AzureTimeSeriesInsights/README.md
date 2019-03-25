@@ -1,4 +1,4 @@
-Time Series Insights Hands on Lab - Guide
+# Time Series Insights Hands on Lab - Guide
 -----------------------------------------
 
 Azure Time Series Insights is an end-to-end PaaS offering to *ingest, process,
@@ -9,14 +9,14 @@ modeling, and cost-effective queries over decades of data. Time Series Insights
 provides rich asset-based operational intelligence together with ad-hoc data
 exploration to address the IoT analytics needs.
 
-**Step 1: Create an IoT Hub**
+## Step 1: Create an IoT Hub
 
 Time Series Insights uses an IoT Hub or an Event Hub as an event source. In this
 lab, you will plug in your IoT hub to a TSI environment.
 
 *Create a new IoT hub:*
 
-1.  Sign into Azure Portal using your subscription account
+1.  Sign into [Azure Portal](https://portal.azure.com) using your subscription account
 
 2.  Select **+ Create a resource** in the upper left.
 
@@ -49,7 +49,7 @@ Click on “Review + Create”
 
 ![](media/008d4b2b28c2c3cea625dec1e519a249.png)
 
-*Define a new consumer group*
+### Define a New Consumer Group
 
 TSI requires a unique consumer group for your hub. The following steps detail
 how you can create a new consumer group in your hub.
@@ -63,7 +63,7 @@ how you can create a new consumer group in your hub.
 
 ![](media/061fb27db479a81656884eece297874c.png)
 
-**Step 2: Send Events to your hub**
+## Step 2: Send Events to your hub
 
 In this step, you will simulate 3 devices and send data to your IoT Hub
 
