@@ -3,11 +3,15 @@
 
 Azure Time Series Insights is an end-to-end PaaS offering to *ingest, process,
 store, and query highly contextualized*, *time-series-optimized, IoT-scale
-data.* Time Series Insights is tailored towards the unique needs of industrial
+data.* 
+
+Time Series Insights is tailored towards the unique needs of industrial
 IoT deployments with capabilities including multi-layered storage, time series
 modeling, and cost-effective queries over decades of data. Time Series Insights
 provides rich asset-based operational intelligence together with ad-hoc data
 exploration to address the IoT analytics needs.
+
+In this lab, you are going to use Time Series Insights (TSI) to visualize and analyze raw sensor data. Three simulated Raspberry Pi devices will be sending data to IoT Hub. Your TSI environment will be using this IoT Hub instance as an event source, allowing you to create time series chart etc. displaying the data. As a last step, we will explore how TSI can help you provide more context to the data, e.g. by providing human-readable names and descriptions, or providing more structure, to your raw telemetry data.
 
 ## Step 1: Create an IoT Hub
 
