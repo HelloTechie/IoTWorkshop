@@ -4,6 +4,7 @@ Thank you for joining the workshop. We would like to share some new and exciting
 
 * [Lab 1 - Azure IoT Central](AzureIoTCentral)
 * [Lab 2 - Azure Maps](AzureMaps01)
+* [Lab 3 - Azure Time Series Insights](AzureTimeSeriesInsights)
 
 Finished both labs? We have more hands on labs here:
 
